@@ -2,18 +2,22 @@
 name: 'Strong Password Generator'
 description: 'A Complex password generator (including special characters) using Python'
 author: '@iamsid47'
-img: https://github.com/iamsid47/hangman-pics/blob/main/hangman.png
+img: https://github.com/iamsid47/hangman-pics/blob/main/pass%20-%20main.png
 ---
+
+![Password Generator](https://github.com/iamsid47/hangman-pics/blob/main/pass%20-%20main.png)
 
 Hello Everyone! In this workshop, we are gonna create a strong password generator using python. This generator will be able to generate a password using lowercase, uppercase alphabets, integers, and as well as special characters. The length of the password will be user defined. This generator will also have a GUI (Graphical User Interface)!
 
-You can test out this generator here on Repl.it by clicking [This]() Link.
+You can test out this generator here on Repl.it by clicking [This](https://repl.it/@iamsid47/password-generator#main.py) Link.
 
 ## Files & Libraries
 
 In this workshop we are going to be having only one python file named as `main.py`. We are also going to require couple of libraries. The first one is `tkinter`. This is a library for python programs which will have/require a GUI. We also require `pyperclip`. This library will help in copying the password which the program generates. We will also be required to have `random` and `string` library.
 
 ## Let's Get Started!
+
+![Create a repl](https://github.com/iamsid47/hangman-pics/blob/main/pass-repl.png)
 
 Let's head over to [Repl.it](https://repl.it) and create a *repl*. Choose the language as **Python** and name your project/repl.
 
@@ -104,6 +108,8 @@ root.mainloop()
 
 ## Voila! You got it!
 
+![Awesome](https://media.giphy.com/media/mXnO9IiWWarkI/giphy.gif)
+
 You just created your very own password generator. And that too.. not a rubbish one which generates something random. But a proper generator which tricks in and generates a strong password!
 
 ## Hack It ;)
@@ -113,3 +119,9 @@ You can further improvise this project in many ways. You can create a dedicated 
 You can even combine this project with either `node.js` or `Vercel` and make it an online generator! 
 
 Further improvements include creating a series of algorithm. Meaning, first create a handful of algorithms for password generators. Then create algorithms to choose the algorithms you just created for your password generation. This will secure your own program from getting cracked and also support some very strong passwords which can barely be patternized and cracked!
+
+## How it works?
+
+![How it works - start](https://github.com/iamsid47/hangman-pics/blob/main/pass%20h%201.png)
+
+![How it works -  next](https://github.com/iamsid47/hangman-pics/blob/main/pass%20h%202.png)
